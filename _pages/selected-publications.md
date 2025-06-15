@@ -33,11 +33,21 @@ permalink: /selected-publications/
 </style>
 
 <div class="pub-item" data-homepage="true">
+  <span class="conference-badge">ACL'25</span>
+  <span class="pub-title">Veracity Bias and Beyond: Uncovering LLMs' Hidden Beliefs in Problem-Solving Reasoning</span>
+  <div class="pub-authors">Yue Zhou, Barbara Di Eugenio </div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2407.00869">[Paper]</a>
+  </div>
+</div>
+
+<div class="pub-item" data-homepage="true">
   <span class="conference-badge">EMNLP'24</span>
   <span class="pub-title">Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks</span>
   <div class="pub-authors">Yue Zhou, Henry Peng Zou, Barbara Di Eugenio, Yang Zhang</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2407.00869">[Paper]</a>
+    <a href="https://github.com/Yue-LLM-Pit/FFA/">[Code]</a>
   </div>
 </div>
 
